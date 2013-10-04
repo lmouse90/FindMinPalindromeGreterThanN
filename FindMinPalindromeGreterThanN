@@ -1,5 +1,5 @@
 #include <iostream>
-	using namespace std;
+using namespace std;
 const int maxNumLength = 64;
 int num[maxNumLength];
 //给的int N，求x，x是大于N的最小回文数
